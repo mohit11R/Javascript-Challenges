@@ -1,4 +1,4 @@
 # Javascript-Challenges
-These files contains Javascript challenges:-
+These files contain Javascript challenges:-
 
 1) Convert age into days
